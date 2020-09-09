@@ -1,0 +1,17 @@
+*.*~
+*.pyc
+*.pkl
+*.h5
+*.t7
+*.t7*
+*.log
+*.png
+*.jpg
+*.pth
+.DS_Store
+inference/
+runs/
+build/
+yolov3/data
+datasets/
+patched_images/
